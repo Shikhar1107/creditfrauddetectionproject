@@ -1,0 +1,9 @@
+This is the Credit Card Fraud Detection project using streamlit.
+
+1. First install streamlit using cmd and tupe the following command.
+pip install streamlit
+2. Download the dataset fro the given link:- https://www.kaggle.com/mlg-ulb/creditcardfraud/download
+3. Now download the whole file as zip and then open the vs code and select the folder where you save the code with the dataset named creditcard.csv.
+4. Open the terminal in vs code and write 
+   streamlit run cc.py
+5. It is a web app so the project will run in the chrome.
